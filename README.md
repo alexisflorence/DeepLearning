@@ -1,5 +1,7 @@
 # Machine Learning/AI Course Progress Repository
 
+([https://course.fast.ai/])
+
 ## Overview
 Welcome to my journey through fast.ai's Machine Learning and Deep Learning courses! This repository is my digital notebook, a place where I meticulously track my progress, share insights, and display projects developed while exploring the fascinating world of AI. My goal is to not only deepen my understanding of machine learning and AI principles but also to apply this knowledge in solving real-world problems.
 
